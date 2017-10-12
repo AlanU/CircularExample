@@ -5,7 +5,8 @@ CONFIG -= qt
 
 SOURCES += main.cpp \
     derived.cpp \
-    derived2.cpp
+    derived2.cpp \
+    base.cpp
 
 HEADERS += \
     derived.h \
